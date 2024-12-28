@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+.img1 {
+  background: transparent !important;
+  border: 1px solid rgb(255, 255, 255);
+  height: 300px;
+  width: 300px;
+}
+.greet {
+  font-family: "poppins", sans-serif !important;
+  font-size: 50px !important;
+}
+.bio {
+  font-weight: lighter !important;
+  letter-spacing: 2px !important;
+  font-size: 25px !important;
+}

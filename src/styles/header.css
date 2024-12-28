@@ -1,0 +1,14 @@
+.link_a {
+  color: white;
+  background-color: transparent;
+  padding: 5px;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+  position: relative;
+  left: 50px;
+}
+
+.link_a:hover {
+  color: black;
+  background-color: white;
+}
